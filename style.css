@@ -16,9 +16,9 @@ html {
   scroll-behavior: smooth;
 }
 
-p {
+/* p {
   color: rgb(85, 85, 85);
-}
+} */
 
 /* TRANSITION */
 
@@ -250,9 +250,9 @@ section {
   background: rgb(0, 0, 0);
 }
 
-.btn-color-2 {
+/* .btn-color-2 {
   background: none;
-}
+} */
 
 .btn-color-2:hover {
   border: rgb(255, 255, 255) 0.1rem solid;
